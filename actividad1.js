@@ -50,3 +50,4 @@ let g = 10;
   let g = 20;
 })();
 // la respuesta fue ReferenceError
+//
